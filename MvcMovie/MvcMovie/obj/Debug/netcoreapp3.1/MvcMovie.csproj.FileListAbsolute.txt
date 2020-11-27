@@ -35,3 +35,5 @@ C:\Users\David\source\repos\week9\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcM
 C:\Users\David\source\repos\week9\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.pdb
 C:\Users\David\source\repos\week9\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
 C:\Users\David\source\repos\week9\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+C:\Users\David\source\repos\week9\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\David\source\repos\week9\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
