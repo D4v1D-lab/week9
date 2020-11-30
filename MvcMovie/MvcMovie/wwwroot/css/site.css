@@ -8,7 +8,9 @@ a.navbar-brand {
 }
 /* Provide sufficient contrast against white background */
 a {
-    color: #ffbe00;
+    color: #1b6ec2;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    letter-spacing: 2px;
 }
 
 .btn-primary {
@@ -70,6 +72,7 @@ body {
     white-space: nowrap;
     background-color: #337ab7;
     line-height: 60px; /* Vertically center the text there */
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .container2 {
     color: white;
