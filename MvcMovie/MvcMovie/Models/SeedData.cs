@@ -26,6 +26,7 @@ namespace MvcMovie.Models
                         Title = "The Other Side of Heaven",
                         ReleaseDate = DateTime.Parse("2001-4-12"),
                         Genre = "Romantic Comedy",
+                        Rating = "R",
                         Price = 7
                     },
 
@@ -34,6 +35,7 @@ namespace MvcMovie.Models
                         Title = "Meet the Mormons",
                         ReleaseDate = DateTime.Parse("2014-3-13"),
                         Genre = "Western",
+                        Rating = "R",
                         Price = 8
                     },
 
@@ -42,6 +44,7 @@ namespace MvcMovie.Models
                         Title = "The Best Two Years",
                         ReleaseDate = DateTime.Parse("2004-2-20"),
                         Genre = "Comedy",
+                        Rating = "R",
                         Price = 9
                     }
                 );
