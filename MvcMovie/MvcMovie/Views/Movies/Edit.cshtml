@@ -38,6 +38,19 @@
                 <input asp-for="Rating" class="form-control" />
                 <span asp-validation-for="Rating" class="text-danger"></span>
             </div>
+            <div>
+                I want to see:
+                <select name="photoChoice">
+                    <option value="Photo1.jpg">Photo 3</option>
+                    <option value="Photo2.jpg">Photo 2</option>
+                    <option value="Photo3.jpg">Photo 1</option>
+                </select>
+                &nbsp;
+                <input type="submit" value="Submit" />
+            </div>
+            <div style="padding:30px;">
+                <img src="/Images/Photo3.jpg" alt="Sample Photo" />
+            </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
